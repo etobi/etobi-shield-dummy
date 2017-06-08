@@ -1,0 +1,15 @@
+{
+  "name": "etobi-shield-dummy",
+  "version": "1.0.5",
+  "description": "",
+  "os": [ "!linux" ],
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:etobi/etobi-shield-dummy.git"
+  },
+  "dependencies": {},
+  "author": "Tobias Liebig",
+  "license": "ISC"
+}
