@@ -19,5 +19,7 @@ module.exports = {
 	},
 	writeLine: function (line, text) {
 		console.log(line + ': ' + text);
+	},
+	clearAll: function () {
 	}
 };
